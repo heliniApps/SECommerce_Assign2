@@ -1,0 +1,10 @@
+http://andytson.com/blog/2009/07/php-public-key-cryptography-using-openssl/
+
+
+http://3stepsbeyond.co.uk/2010/12/openssl-and-php-tutorial-part-one/
+
+http://php.net/manual/en/book.openssl.php
+
+http://edrackham.com/php/php-class-tutorial-part-2-what-is-this/
+
+

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<members>
+  <member id="5173b124d94af">
+    <name>valid1</name>
+    <age>22</age>
+    <address>123 Test st.</address>
+    <city>Melbourne</city>
+    <state>CA</state>
+    <zip>90001</zip>
+    <country>Australia</country>
+    <email>M3UadqAglNKKLN+zZW4xTyBOK71EtqGKv5q9SgSR6y4=</email>
+    <password>flqVbSvbw04gAnOqc98BTYaJpz0fRzRDV0poK0//iT4=</password>
+    <trans-pass>gbUGx6zz4RVlpa7V8NCKnctUNSehEJNzytXHqsGu0Us=</trans-pass>
+    <session>l0nfn8ht8i43evbmspocsvtai0</session>
+  </member>
+  <member id="5173b15776846">
+    <name>valid2</name>
+    <age>23</age>
+    <address>4000 Main St.</address>
+    <city>Anytown</city>
+    <state>AZ</state>
+    <zip>85001</zip>
+    <country>Australia</country>
+    <email>P70YlLCHhZZhfV4ZSVcXCJjpcLhxUU6NdCcrIwU5Yzk=</email>
+    <password>flqVbSvbw04gAnOqc98BTYaJpz0fRzRDV0poK0//iT4=</password>
+    <trans-pass>gbUGx6zz4RVlpa7V8NCKnctUNSehEJNzytXHqsGu0Us=</trans-pass>
+    <session>l0nfn8ht8i43evbmspocsvtai0</session>
+  </member>
+  <member id="5173b23282fbd">
+    <name>fraud1</name>
+    <age>25</age>
+    <address>305 Madison Street</address>
+    <city>Victoria</city>
+    <state>CV</state>
+    <zip>123456</zip>
+    <country>Australia</country>
+    <email>FWFYrsxis4bdX/2VgGxqNt6TSiUmbzeAsC7TGyufNU0=</email>
+    <password>flqVbSvbw04gAnOqc98BTYaJpz0fRzRDV0poK0//iT4=</password>
+    <trans-pass>gbUGx6zz4RVlpa7V8NCKnctUNSehEJNzytXHqsGu0Us=</trans-pass>
+    <session>l0nfn8ht8i43evbmspocsvtai0</session>
+  </member>
+  <member id="5173b25b62641">
+    <name>blacklist1</name>
+    <age>16</age>
+    <address>Bank Streeet</address>
+    <city>Victoria</city>
+    <state>AF</state>
+    <zip>765001</zip>
+    <country>Australia</country>
+    <email>lWtpt0FuEFYwwk3nTn9lCdYGTBdzjcy8/NqXw5Yvf2U=</email>
+    <password>flqVbSvbw04gAnOqc98BTYaJpz0fRzRDV0poK0//iT4=</password>
+    <trans-pass>gbUGx6zz4RVlpa7V8NCKnctUNSehEJNzytXHqsGu0Us=</trans-pass>
+    <session>nppt9s1hq0b5q71rl390u5efa1</session>
+  </member>
+  <member id="5173b28db8655">
+    <name>velocity1</name>
+    <age>35</age>
+    <address>Frank St.</address>
+    <city>Victoria</city>
+    <state>ERT</state>
+    <zip>285901</zip>
+    <country>Australia</country>
+    <email>tQq5o/BXMhsIsM+XZsip8d/HyS4OAJMAn1hGgu8SWyo=</email>
+    <password>flqVbSvbw04gAnOqc98BTYaJpz0fRzRDV0poK0//iT4=</password>
+    <trans-pass>gbUGx6zz4RVlpa7V8NCKnctUNSehEJNzytXHqsGu0Us=</trans-pass>
+    <session>nppt9s1hq0b5q71rl390u5efa1</session>
+  </member>
+</members>

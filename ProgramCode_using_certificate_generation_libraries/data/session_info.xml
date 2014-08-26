@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<sessions>
+  <session id="5173b2ac69543">
+    <user_id>5173b25b62641</user_id>
+    <login_time>21-Apr-2013, 19:34:36</login_time>
+    <user_ip>::1</user_ip>
+    <logout_time>21-Apr-2013, 19:38:08</logout_time>
+  </session>
+  <session id="5173b38bce1ec">
+    <user_id>5173b23282fbd</user_id>
+    <login_time>21-Apr-2013, 19:38:19</login_time>
+    <user_ip>::1</user_ip>
+    <logout_time>21-Apr-2013, 19:39:05</logout_time>
+  </session>
+  <session id="5173b3c2c022d">
+    <user_id>5173b28db8655</user_id>
+    <login_time>21-Apr-2013, 19:39:14</login_time>
+    <user_ip>::1</user_ip>
+    <logout_time>21-Apr-2013, 19:39:43</logout_time>
+  </session>
+  <session id="5173b3eb69d67">
+    <user_id>5173b124d94af</user_id>
+    <login_time>21-Apr-2013, 19:39:55</login_time>
+    <user_ip>::1</user_ip>
+    <logout_time>21-Apr-2013, 19:41:07</logout_time>
+  </session>
+  <session id="5173b43c81513">
+    <user_id>5173b15776846</user_id>
+    <login_time>21-Apr-2013, 19:41:16</login_time>
+    <user_ip>::1</user_ip>
+    <logout_time>21-Apr-2013, 19:41:54</logout_time>
+  </session>
+  <session id="5173bf9217f73">
+    <user_id>5173b124d94af</user_id>
+    <login_time>21-Apr-2013, 20:29:38</login_time>
+    <user_ip>::1</user_ip>
+    <logout_time>21-Apr-2013, 20:30:02</logout_time>
+  </session>
+  <session id="5173bfa813e1b">
+    <user_id>5173b124d94af</user_id>
+    <login_time>21-Apr-2013, 20:30:00</login_time>
+    <user_ip>::1</user_ip>
+    <logout_time>21-Apr-2013, 20:30:08</logout_time>
+  </session>
+  <session id="5173c03be159f">
+    <user_id>5173b15776846</user_id>
+    <login_time>21-Apr-2013, 20:32:27</login_time>
+    <user_ip>::1</user_ip>
+    <logout_time>21-Apr-2013, 20:32:38</logout_time>
+  </session>
+  <session id="5173c07306501">
+    <user_id>5173b124d94af</user_id>
+    <login_time>21-Apr-2013, 20:33:23</login_time>
+    <user_ip>::1</user_ip>
+    <logout_time>21-Apr-2013, 20:33:27</logout_time>
+  </session>
+  <session id="5173c08247928">
+    <user_id>5173b23282fbd</user_id>
+    <login_time>21-Apr-2013, 20:33:38</login_time>
+    <user_ip>::1</user_ip>
+    <logout_time>21-Apr-2013, 20:33:49</logout_time>
+  </session>
+</sessions>

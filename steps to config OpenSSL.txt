@@ -1,0 +1,65 @@
+Steps to config XAMPP to use PHP and OpenSSL
+--------------------------------------------
+
+Apache server configuration
+...........................
+
+PHP in XAMPP works with the inbuild Apache server. Therefore, when enabling SSL first check whether Apache is enabled.
+
+Open the file xampp/apache/conf/httpd.conf in an editor and search for the line:
+#LoadModule ssl_module modules/mod_ssl.so
+
+If this line has a "#" sign in front (commented), remove it to uncomment the line.
+Then save and restart the server (I usually do it using system Services list). The webserver will then start with xampp's default ssl configuation.
+
+
+XAMPP PHP configuration
+.......................
+
+OpenSSL extention ships with xampp installation, as a dll. We must tell php to load this dll file, in the "php.ini".
+
+For that, open the file xampp/php/php.ini file in a text editor.
+Locate the line,
+;extension=php_openssl.dll
+
+If it has ";" mark in the beginning remove it to uncomment the line.
+Then save and restart the server (apache).
+
+Note: You can use the below command to see the path of php.ini file the xampp installation works.
+echo 'ini: ', get_cfg_var('cfg_file_path');
+
+
+Setting php path, in Windows system
+...................................
+
+The 'php_openssl.dll' library is dependent on two other libraries that are also shiped with the XAMPP package. They are, "libeay32.dll" and "ssleay32.dll".
+
+In order to use the OpenSSL library, these two libraries should be in the windows system path. For me, adding these libraries to Windows/System32 folder did not work. It only worked after I add the path to the xampp php folder, in to the PATH environment variable.
+
+Therefore, get the path to the folder where these two libraries exist (by default: c:/xampp/php).
+Then append it to the PATH environment variable. Make sure you do not point to any other php installation folders in the PATH.
+
+Save environment variables.
+
+
+
+Setting the openssl.cnf path in system variables
+.................................................
+
+In order to use OpenSSL functions you need a valid openssl.cnf file installed.
+For that,
+locate the openssl.cnf file in xampp/php/extras/openssl directory (this path is for PHP 5.x or later versions. For 4.x it is just php/openssl)
+
+Create a new environment variable named "OPENSSL_CONF".
+Add the path to the openssl.cnf file with the file name, as the value of the environment variable.
+
+Save variables.
+
+After doing these steps, I restarted the machine. Then it worked fine. :)
+
+
+references
+..........
+http://stackoverflow.com/questions/2643462/setting-up-ssl-on-a-local-xampp-apache-server
+http://www.php.net/manual/en/openssl.installation.php
+

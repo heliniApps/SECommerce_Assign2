@@ -1,0 +1,8 @@
+Issued To -> SandS.com.au<br />Issued By -> FairField Authorities Inc.<br />Valid From -> May 2013<br />Valid To   -> May 2014<br /><br /><br />-----BEGIN PUBLIC KEY-----
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDUr4Z9mJnJr/as/bWaVb6mcvBf
+IWyl82K7x/DUj8ezr6QMiU/5pri5m+6/pqLUTJrsKSp0R5aRNLy/rjgDfYXgJ6Fq
+Cf73iexusYejPWm4NQxjz8KQRsg42TK85wRv2ugq/H3s66odWoAJxN634m4P3JEV
+8WhEEFATsLcTUwsAgwIDAQAB
+-----END PUBLIC KEY-----
+<br /><br /><br />CA Finger Print: )b7oPн‹Я]Чl!yТ6«SѓИјнЧЬЭwу&Х<iV­TTr‰>Сци ;G&7\ґN¶>ЎJйTґЏd5іЉGZСoЩС]тіFоxбўoVAюQюђaыёѓЏєС,»@bf(=)“K›Ќ1Дў#аШ
+"Џ–Ђя

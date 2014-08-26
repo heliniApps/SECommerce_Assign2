@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<cards>
+  <card id="5173b364643d1">
+    <user_id>5173b25b62641</user_id>
+    <card_number>GhkeyWXuKY7JUJk6WRNxi6eVap1e5hq9laQQ3xrdWIY=</card_number>
+    <cvv>OdlUY1eceRJ4wrw/CDoObHHQ4sfnuULmbfQ6ZoG9ec8=</cvv>
+    <expiry_date>Q24wE7sL3dMUc4KH+uKXW7Nlp1TIz/mjsHHrvR+3LpE=</expiry_date>
+    <card_holder_name>PviIQ9wVTxaCCF8OxAPTlpnWrPXmar1VImgsF6jAU60=</card_holder_name>
+  </card>
+  <card id="5173b39ad5d63">
+    <user_id>5173b23282fbd</user_id>
+    <card_number>7p7umCDMU4sBtyMXAqvnNCYrtjFdBQNsDhKTX++RGr8=</card_number>
+    <cvv>Yup02ZZv7Juf3fETPe4VocI+dF0vmYvCXttcS/TAcS4=</cvv>
+    <expiry_date>Q24wE7sL3dMUc4KH+uKXW7Nlp1TIz/mjsHHrvR+3LpE=</expiry_date>
+    <card_holder_name>W3BJMQCWzZygJOTosM4KAKpbqCq2r7+mUiSyy9kH9lY=</card_holder_name>
+  </card>
+  <card id="5173b3d65f6ba">
+    <user_id>5173b28db8655</user_id>
+    <card_number>uUrJqtplUP73TqS18sBeQvX433bICsu+UgY/KwtYBZI=</card_number>
+    <cvv>ADcqzn3/5iSgVtAzBpspaKNLsLFYlDWDgrTNbHBkniI=</cvv>
+    <expiry_date>Q24wE7sL3dMUc4KH+uKXW7Nlp1TIz/mjsHHrvR+3LpE=</expiry_date>
+    <card_holder_name>SyNNx6ZDsHqRVaQOSsX4dllBUxXyd4nhXDeqAvIEXkQ=</card_holder_name>
+  </card>
+  <card id="5173b3ffe46af">
+    <user_id>5173b124d94af</user_id>
+    <card_number>yfdvS/PHEk70rEm/8GpnAepzO0KXlHgFQ6/wXX0gl8c=</card_number>
+    <cvv>7iSibPTO37O2N39oxjI7KGq7qk4y0CzsvsCsy9Bohfw=</cvv>
+    <expiry_date>Q24wE7sL3dMUc4KH+uKXW7Nlp1TIz/mjsHHrvR+3LpE=</expiry_date>
+    <card_holder_name>p3nGUBMX6L0+R8AFlXIRkBTIw4OHOS2ppQgl83U00Pc=</card_holder_name>
+  </card>
+</cards>

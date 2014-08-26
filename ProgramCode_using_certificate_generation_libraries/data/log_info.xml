@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<logs>
+  <log>
+    <transaction_id>fTRHLA3k9VM4LuD5LvQ6yyrqpvCLsTBB6W6juqSMc1c=</transaction_id>
+    <cc_num>GhkeyWXuKY7JUJk6WRNxi6eVap1e5hq9laQQ3xrdWIY=</cc_num>
+    <amount>824</amount>
+    <date>21-Apr-2013, 19:37:41</date>
+    <status>decline; blacklist</status>
+  </log>
+  <log>
+    <transaction_id>sdhC3pE9U65s+CGiMOplY1yVxnQqNUFFjTxswPUdG3k=</transaction_id>
+    <cc_num>7p7umCDMU4sBtyMXAqvnNCYrtjFdBQNsDhKTX++RGr8=</cc_num>
+    <amount>295</amount>
+    <date>21-Apr-2013, 19:38:35</date>
+    <status>decline; fraud</status>
+  </log>
+  <log>
+    <transaction_id>/qQKZYETQtCR5fW8f4RgsJyg5jRxCaKtaRswrUy5v4g=</transaction_id>
+    <cc_num>uUrJqtplUP73TqS18sBeQvX433bICsu+UgY/KwtYBZI=</cc_num>
+    <amount>100</amount>
+    <date>21-Apr-2013, 19:39:35</date>
+    <status>decline; velocity</status>
+  </log>
+  <log>
+    <transaction_id>qlfWV+BI25JUdDe/Mnvyb7EEVRMABpj/N2uG7j3b2Nw=</transaction_id>
+    <cc_num>yfdvS/PHEk70rEm/8GpnAepzO0KXlHgFQ6/wXX0gl8c=</cc_num>
+    <amount>100</amount>
+    <date>21-Apr-2013, 19:40:16</date>
+    <status>approved</status>
+  </log>
+  <log>
+    <transaction_id>meWJqgljmBkzEp2uefQ3vTAv4Yu4dEsPtnDDH9gIB5A=</transaction_id>
+    <cc_num>yfdvS/PHEk70rEm/8GpnAepzO0KXlHgFQ6/wXX0gl8c=</cc_num>
+    <amount>36</amount>
+    <date>21-Apr-2013, 19:40:36</date>
+    <status>baddata; badlength at amount</status>
+  </log>
+  <log>
+    <transaction_id>tr6w4aw5IxWqJJORVODMJK4UzDdh4atosYINYAEmcJ8=</transaction_id>
+    <cc_num>yfdvS/PHEk70rEm/8GpnAepzO0KXlHgFQ6/wXX0gl8c=</cc_num>
+    <amount>155</amount>
+    <date>21-Apr-2013, 19:40:46</date>
+    <status>approved</status>
+  </log>
+</logs>

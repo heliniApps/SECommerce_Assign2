@@ -1,0 +1,17 @@
+Array
+(
+    [countryName] => AU
+    [stateOrProvinceName] => Victoria
+    [localityName] => Carlton
+    [organizationName] => Simth and Sams
+    [organizationalUnitName] => PHP Documentation Team
+    [commonName] => SandS.com.au
+    [emailAddress] => SandS@example.com
+)
+
+-----BEGIN PUBLIC KEY-----
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4lEtOVE45RwL1H2TsSU3XqV1m
+0KCd7Puj5J2bKkiST9DFhXwtqy2P2uVDFpdEo4R8Qh3tG/oyuSrzijk97egvs4Bn
+eGKk203OsTT1l7GgTmf1HRGE30snB3x8FBp52qHPGBOXX/sZ05P/JbTY/AtqhUHj
+pYYq5hXLPg+Bjinh8QIDAQAB
+-----END PUBLIC KEY-----
